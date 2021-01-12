@@ -1,0 +1,17 @@
+#global {
+	height: 600px;
+	width: auto;
+	overflow-y: scroll;
+    }
+    .links ul li.crypto:hover, .links ul li.crypto:focus, .links ul li.crypto.active {
+        background: #F73749;
+        color: #fff;
+        border: 1px solid #F73749; 
+        cursor:pointer; 
+    }
+    .account_money ul li.usd:hover, .account_money ul li.usd:focus, .account_money ul li.usd.active {
+          background: #F73749;
+          color: #fff;
+          border: 1px solid #F73749;
+          cursor: pointer;
+        }

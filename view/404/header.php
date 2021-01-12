@@ -1,0 +1,1 @@
+<link href="<?php echo RUTA ?>res/css/error.css" rel="stylesheet">
